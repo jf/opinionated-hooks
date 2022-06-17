@@ -1,5 +1,5 @@
 -   id: terraform-fmt-tabifypp
-    name: 'terraform fmt'-tabify++
+    name: "'terraform fmt'-tabify++"
     description: Opinionated formatter that leans on `terraform fmt` (`cat` and `terraform` will need to be in your path)
     entry: terraform-fmt-tabifypp
     language: python
