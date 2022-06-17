@@ -10,7 +10,7 @@ Add this to your `.pre-commit-config.yaml`
 
 ```yaml
 -   repo: https://github.com/jf/opinionated-hooks
-    rev: 0.0.1  # Use the ref you want to point at
+    rev: 0.0.2  # Use the ref you want to point at
     hooks:
     -   id: terraform-fmt-tabifypp
     # -   id: ...
